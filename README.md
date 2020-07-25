@@ -1,5 +1,5 @@
 ### Hola a todos 👋
-### Soy James Pico, panameño, estudiante de la licenciatura en desarrollo de software en la Universidad Tecnológica de Panamá
+### Soy James Pico, panameño, estudiante de la Licenciatura en Desarrollo de Software en la Universidad Tecnológica de Panamá
 <!--
 **jamespd10/jamespd10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
