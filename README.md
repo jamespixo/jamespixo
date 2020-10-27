@@ -1,7 +1,8 @@
 # Hola a todos 👋
 _Soy James Pico, panameño, estudiante de la Licenciatura en Desarrollo de Software en la Universidad Tecnológica de Panamá_
 ## Títulos
-_Título en Técnico en Ingeniería con Especialización en Desarrollo de Software_
+_Título en:_
+* Técnico en Ingeniería con Especialización en Desarrollo de Software
 ## Lenguajes
 _Experiencia con:_
 * PHP
