@@ -6,6 +6,8 @@ _Gracias a la Universidad he tenido la oportunidad de toparme con varios lenguaj
 * PHP
 * JavaScript
 * Android
+* Java
+* Visual Basic.net
 ## Otros
 _Actualmente me encuentro en desarrollo de aplicaciones con el Stack MERN en la cual tengo un curso y desarrollo móvil con flutter/dart_
 <!--
