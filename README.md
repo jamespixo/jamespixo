@@ -3,13 +3,13 @@ _Soy James Pico, panameño, estudiante de la Licenciatura en Desarrollo de Softw
 ## Títulos
 _Título en:_
 * Técnico en Ingeniería con Especialización en Desarrollo de Software
-## Lenguajes
-_Experiencia con:_
+## Programming languages
+_Experience with:_
 * PHP
 * JavaScript
-* Android
-* Java
-* Visual Basic.net
+* Flutter/Dart
+* React
+* Angular
 ## Otros
 _Actualmente me encuentro en desarrollo de aplicaciones con el Stack MERN en la cual tengo un curso y desarrollo móvil con flutter/dart_
 <!--
