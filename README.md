@@ -11,7 +11,7 @@ _Experience with:_
 * React
 * Angular
 ## Otros
-_Actualmente me encuentro en desarrollo de aplicaciones con el Stack MERN en la cual tengo un curso y desarrollo móvil con flutter/dart_
+_Actualmente me encuentro en el desarrollo de aplicaciones para una empresa_
 <!--
 **jamespd10/jamespd10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
