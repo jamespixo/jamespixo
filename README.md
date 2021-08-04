@@ -1,8 +1,7 @@
-# Hola a todos 👋
-_Soy James Pico, panameño, estudiante de la Licenciatura en Desarrollo de Software en la Universidad Tecnológica de Panamá_
-## Títulos
-_Título en:_
-* Técnico en Ingeniería con Especialización en Desarrollo de Software
+# Hello World 👋
+_James Pico here!_
+
+![Twitter Follow](https://img.shields.io/twitter/follow/JamesPixo?color=%231DA1F2&label=JamesPixo&logo=twitter&logoColor=%231DA1F2&style=for-the-badge) ![GitHub followers](https://img.shields.io/github/followers/jamespd10?color=%23181717&label=James%20Pico&logo=github&logoColor=%23fff&style=for-the-badge)
 ## Programming languages
 _Experience with:_
 * PHP
