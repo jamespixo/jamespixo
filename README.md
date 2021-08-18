@@ -5,10 +5,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/jamespd10?color=%23181717&label=James%20Pico&logo=github&logoColor=%23fff&style=for-the-badge)](https://github.com/jamespd10)
 ---
 ## ⭐ Contact me 🃏
-
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jamespixo" height="30" width="40" align="left" />][twitter]
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jamespixo" height="30" width="40" align="left" />][facebook]
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jamespixo" height="30" width="40" align="left" />][instagram]
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jamespixo" height="30" width="40" align="left" />][instagram]<br/>
 ---
 ## 🖥️💻 Coding with 💣💥
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="30" align="left" alt="php" />][github]
