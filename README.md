@@ -9,7 +9,7 @@
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jamespixo" height="30" width="40" align="left" />][facebook]
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jamespixo" height="30" width="40" align="left" />][instagram]<br/>
 ---
-## 🖥️💻 Coding with 💣💥
+## 🖥️💻 Code 💣💥
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" height="30" width="40" align="left" alt="php" />][github]
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="30" width="40" align="left" alt="javascript" />][github]
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="30" width="40" align="left" alt="typescript" />][github]
