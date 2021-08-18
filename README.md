@@ -4,6 +4,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/JamesPixo?color=%231DA1F2&label=JamesPixo&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/JamesPixo)
 [![GitHub followers](https://img.shields.io/github/followers/jamespd10?color=%23181717&label=James%20Pico&logo=github&logoColor=%23fff&style=for-the-badge)](https://github.com/jamespd10)
 ---
+<a href="https://twitter.com/jamespixo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jamespixo" height="30" width="40" /></a>
+
 ## 🖥️💻 Coding with 💣💥
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="30" align="left" alt="php" />][github]
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" align="left" alt="javascript" />][github]
