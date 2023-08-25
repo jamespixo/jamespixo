@@ -1,6 +1,5 @@
 # Hello World 👋
-#### _James Pico here!_
-
+####
 [![Twitter Follow](https://img.shields.io/twitter/follow/JamesPixo?color=%231DA1F2&label=JamesPixo&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/JamesPixo)
 [![GitHub followers](https://img.shields.io/github/followers/jamespixo?color=%23181717&label=James%20Pico&logo=github&logoColor=%23fff&style=for-the-badge)](https://github.com/jamespixo)
 ---
