@@ -1,7 +1,6 @@
 # Hi There 👋, I'm James Pico!
 <br>
-<br>
-[![GitHub followers](https://img.shields.io/github/followers/jamespixo?color=%23181717&label=JamesPixo&logo=github&logoColor=%23fff&style=for-the-badge)](https://github.com/jamespixo)
+<br>[![GitHub followers](https://img.shields.io/github/followers/jamespixo?color=%23181717&label=JamesPixo&logo=github&logoColor=%23fff&style=for-the-badge)](https://github.com/jamespixo)
 
 ### Social media
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jamespixo" height="30" width="40" align="left" />][twitter][<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jamespixo" height="30" width="40" align="left" />][instagram]
