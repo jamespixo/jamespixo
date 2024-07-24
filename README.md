@@ -1,7 +1,7 @@
 # Hi There 👋, I'm James Pico
 <br>
 <br>
-My web: [1]
+My web[1]
 
 [1]: https://webmasterpanama.com/ "james"
 
