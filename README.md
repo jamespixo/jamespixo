@@ -1,9 +1,7 @@
 # Hi There 👋, I'm James Pico
 <br>
 <br>
-My web
 
-[1]: https://webmasterpanama.com/ "james"
 [![GitHub followers](https://img.shields.io/github/followers/jamespixo?color=%23181717&label=JamesPixo&logo=github&logoColor=%23fff&style=for-the-badge)](https://github.com/jamespixo)
 
 ### Social media
